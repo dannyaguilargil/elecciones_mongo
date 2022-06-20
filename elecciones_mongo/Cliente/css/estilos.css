@@ -1,0 +1,19 @@
+
+.central{
+    text-align: center;
+}
+.divs{
+    background-color: green;
+    border-style: dotted 5px;
+    height: 400px;
+    width: 400px;
+    color: black;
+}
+.form-control{
+    text-align: center;
+    background-color: aqua;
+    background: aquamarine;
+}
+h4{
+    color: black;
+}
